@@ -1,0 +1,8 @@
+,sensor,Method,Accuracy,F1,Recall,Precision,FNR,FPR
+0,sensor_00,gaussian_hmm,98.89,92.21,99.74,85.73,0.26,1.17
+1,sensor_01,gaussian_hmm,96.15,73.35,80.61,67.29,19.39,2.76
+2,sensor_02,gaussian_hmm,95.19,71.41,91.31,58.63,8.69,4.53
+3,sensor_04,gaussian_hmm,97.33,74.82,60.37,98.37,39.63,0.07
+4,sensor_10,gaussian_hmm,98.31,88.59,99.74,79.68,0.26,1.79
+5,sensor_42,gaussian_hmm,96.0,65.3,57.24,76.0,42.76,1.27
+6,sensor_49,gaussian_hmm,96.27,76.18,90.64,65.7,9.36,3.33
